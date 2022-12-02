@@ -22,3 +22,5 @@ ul {
 li {width: 7%;}
 .liPort{text-transform: uppercase;}
 
+main {height: 60vh;
+   background-image: url('./imagemportflow/laranjaazulrecorte.png');}
