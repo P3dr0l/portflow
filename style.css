@@ -10,7 +10,6 @@ header {
    width: 100%;
    height: 10vh;
    display: flex;
-   border: solid black;
    position: fixed;
 }
 .navMenu {display: flex;
@@ -34,7 +33,6 @@ li {width: 100%;
 }
 
 main {width: 100%;
-border: solid black;
 display: flex;
 flex-direction: column;}
 
@@ -54,8 +52,7 @@ background-repeat: no-repeat;}
 
 .divDasImagens {display: flex;
    flex-wrap: wrap;
-   width: 100%;
-    border: solid black ;}
+   width: 100%;}
 
 .img {width: 23vw;
       height: 28vh;
