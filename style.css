@@ -17,18 +17,18 @@ header {
    height: 10vh;
    display: flex;
    position: fixed;
+   align-items: center;
+   justify-content: space-evenly;
 }
 .navMenu {
+   width: 40%;
    display: flex;
-   width: 68% ;
    justify-content: space-evenly;
 }
 
 
 .h2Port {
-   width: 30%;
-   padding-top: 2%;
-   padding-left: 2%;
+   padding-right: 45%;
    text-transform: capitalize;
    font-family:'Montserrat', sans-serif;
 }
@@ -41,7 +41,6 @@ ul {
    }
 li {
    width: 100%;
-   padding-top: 3%;
    text-transform: capitalize;
 }
 
@@ -59,20 +58,24 @@ main {
 }
   
 .h2Main{
+   width: 60vw;
    color: white;
    font-size: 5rem;
    position: relative;
    top: 40%;
-   right: -15%;
-   font-family:'Montserrat', sans-serif;;
+   left: 15%;
+   font-family:'Montserrat', sans-serif;
+   font-weight: 700;
 }
 .h3Main{
+   width: 50vw;
    color: white;
    font-size: 2rem; 
    position: relative;
    top: 50%;
    right: -15%;
    font-family:'Montserrat', sans-serif;
+   font-weight: 300;
 }
 
 
